@@ -2973,6 +2973,10 @@ p {
   height: 2rem;
 }
 
+.faq_text-content {
+  color: var(--text--gray);
+}
+
 @media screen and (max-width: 991px) {
   .margin-xhuge {
     margin: 6rem;
@@ -3852,6 +3856,10 @@ p {
 
   .testimonial-image._02 {
     max-width: 3rem;
+  }
+
+  .faq_text-content {
+    text-align: left;
   }
 }
 
